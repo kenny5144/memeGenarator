@@ -1,0 +1,21 @@
+.head{
+    background:  linear-gradient(90deg, #672280 1.18%, #A626D3 100%); 
+    
+    display: flex;
+    background-color: purple;
+    margin-bottom: 3rem;
+}
+.head p{
+    margin-top: 1.7rem;
+    padding-left: 1rem;
+}
+.head span {
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.Trollimg{
+    height: 5rem;
+
+}
